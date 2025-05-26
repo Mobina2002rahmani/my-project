@@ -35,13 +35,3 @@ if z :
 
 
 
-#if item in list(r) >= 20000 :
-     #print(list(r))
-
-#y = lambda x : any(x > 20000 for x in lst)
-
-#y = [x for x in prices if x > 20000]
-#if y :
-     #print("graeter than 20000",y)
-#else :
-     #print("none")
